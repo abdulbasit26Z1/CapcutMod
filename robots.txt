@@ -1,0 +1,21 @@
+# CapCut Pro MOD Search Engine Robots File
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /index.html
+Allow: /sitemap.xml
+Allow: /sitemap.html
+
+# Specific Crawler Optimization
+User-agent: Googlebot
+Allow: /
+Allow: /images/*.png
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap Location
+Sitemap: https://getmodsapk.com/sitemap.xml
