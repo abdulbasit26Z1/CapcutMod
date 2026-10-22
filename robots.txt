@@ -1,4 +1,4 @@
-# CapCut Pro MOD Search Engine Robots File
+# CapCut Pro MOD Search Engine Robots File for GitHub Pages
 User-agent: *
 Allow: /
 Allow: /images/
@@ -9,7 +9,7 @@ Allow: /sitemap.html
 # Specific Crawler Optimization
 User-agent: Googlebot
 Allow: /
-Allow: /images/*.png
+Allow: /images/*.webp
 
 User-agent: Googlebot-Image
 Allow: /images/
@@ -17,5 +17,5 @@ Allow: /images/
 User-agent: Bingbot
 Allow: /
 
-# Sitemap Location
-Sitemap: https://getmodsapk.com/sitemap.xml
+# Sitemap Location on GitHub Pages
+Sitemap: https://abdulbasit26z1.github.io/CapcutMod/sitemap.xml
