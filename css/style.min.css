@@ -65,12 +65,9 @@ table{text-indent:0;border-collapse:collapse}
 .mx-auto{margin-left:auto;margin-right:auto}
 .mx-1\.5{margin-left:.375rem;margin-right:.375rem}
 .my-4{margin-top:1rem;margin-bottom:1rem}
-.my-6{margin-top:1.5rem;margin-bottom:1.5rem}
 .my-40{margin-top:10rem;margin-bottom:10rem}
 .my-44{margin-top:11rem;margin-bottom:11rem}
 .my-48{margin-top:12rem;margin-bottom:12rem}
-.my-60{margin-top:15rem;margin-bottom:15rem}
-.my-64{margin-top:16rem;margin-bottom:16rem}
 .mt-1{margin-top:.25rem}
 .mt-2{margin-top:.5rem}
 .mt-3{margin-top:.75rem}
@@ -235,7 +232,6 @@ table{text-indent:0;border-collapse:collapse}
 .hover\:-translate-y-1\/3:hover{--tw-translate-y:-33.333333%}
 .hover\:-translate-y-1\/4:hover{--tw-translate-y:-25%}
 .animate-bounce{animation:bounce 1s infinite}
-.list-disc{list-style-type:disc}
 .list-decimal{list-style-type:decimal}
 .grid-flow-row{grid-auto-flow:row}
 .grid-flow-col{grid-auto-flow:column}
@@ -307,18 +303,13 @@ table{text-indent:0;border-collapse:collapse}
 .space-x-72>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(18rem * var(--tw-space-x-reverse));margin-left:calc(18rem * calc(1 - var(--tw-space-x-reverse)))}
 .space-x-1\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.375rem * var(--tw-space-x-reverse));margin-left:calc(.375rem * calc(1 - var(--tw-space-x-reverse)))}
 .space-x-3\.5>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(.875rem * var(--tw-space-x-reverse));margin-left:calc(.875rem * calc(1 - var(--tw-space-x-reverse)))}
-.space-y-2>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.5rem * var(--tw-space-y-reverse))}
 .space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.75rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.75rem * var(--tw-space-y-reverse))}
 .space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}
-.space-y-20>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(5rem * var(--tw-space-y-reverse))}
-.space-y-24>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(6rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(6rem * var(--tw-space-y-reverse))}
-.space-y-28>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(7rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(7rem * var(--tw-space-y-reverse))}
 .space-y-32>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(8rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(8rem * var(--tw-space-y-reverse))}
 .space-y-36>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(9rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(9rem * var(--tw-space-y-reverse))}
 .space-y-40>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(10rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(10rem * var(--tw-space-y-reverse))}
 .space-y-44>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(11rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(11rem * var(--tw-space-y-reverse))}
 .space-y-48>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(12rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(12rem * var(--tw-space-y-reverse))}
-.space-y-2\.5>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.625rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.625rem * var(--tw-space-y-reverse))}
 .space-y-3\.5>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.875rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.875rem * var(--tw-space-y-reverse))}
 .divide-y-0>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-top-width:calc(0px * calc(1 - var(--tw-divide-y-reverse)));border-bottom-width:calc(0px * var(--tw-divide-y-reverse))}
 .divide-y-2>:not([hidden])~:not([hidden]){--tw-divide-y-reverse:0;border-top-width:calc(2px * calc(1 - var(--tw-divide-y-reverse)));border-bottom-width:calc(2px * var(--tw-divide-y-reverse))}
